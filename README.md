@@ -43,7 +43,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/khoa083/khoa/main/Khoa_ne/img/Rainbow.gif" width="100%"></p>
 
 
-![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=VXR-7A&repo=INFINITY-FOLLOW&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
+![Customized Card](https://github-readme-stats.vercel.app/api/pin?username=VXR-7A&repo=INFINITY&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)
 
 ## ©️ Copyright
 © [2024-10] [VXR-7A]
